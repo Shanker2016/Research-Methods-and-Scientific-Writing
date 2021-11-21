@@ -14,6 +14,8 @@ Resources provided during research methods and scientific writing class in autum
    * https://www.griffith.edu.au/environment-planning-architecture/griffith-school-environment/research/systematic-quantitative-literature-review
    * https://www.cochranelibrary.com/view/0/AboutCochraneSystematicReviews.html
    * Literature review matrix : https://sites.google.com/site/twblacklinemasters/using-a-matrix-to-organise-your-notes-for-faster-writing
+   * Manchester academic phrasebank: https://www.phrasebank.manchester.ac.uk/
+   * Creating your own database: https://www.youtube.com/watch?v=l44piVnIJPU
    * 
 
 
