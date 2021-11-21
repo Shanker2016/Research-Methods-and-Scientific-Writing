@@ -25,3 +25,7 @@ Resources provided during research methods and scientific writing class in autum
  8. Topic sentence and paragraphs: https://owl.english.purdue.edu/engagement/2/2/57/
  9. Paper writing goes hollywood: https://www.science.org/doi/10.1126/science.355.6320.102
 
+
+
+### Everything I learnt about writing goes here.
+
