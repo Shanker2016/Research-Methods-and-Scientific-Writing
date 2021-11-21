@@ -7,5 +7,9 @@ Resources provided during research methods and scientific writing class in autum
     * http://tutorials.istudy.psu.edu/conceptmaps/
     * http://www.mind-mapping.co.uk/mind-maps-examples/education.htm
     * http://www.mindmapart.com/
-    * http://www.informationtamers.com/WikIT/index.php?title=Information_map _types
+    * http://www.informationtamers.com/WikIT/index.php?title=Information_map_types
+3. Videos on mindmapping
+   * http://au.youtube.com/results?search_query=tony+buzan
+
+
 
