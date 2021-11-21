@@ -10,6 +10,10 @@ Resources provided during research methods and scientific writing class in autum
     * http://www.informationtamers.com/WikIT/index.php?title=Information_map_types
 3. Videos on mindmapping
    * http://au.youtube.com/results?search_query=tony+buzan
-
+4. Literature review for research students
+   * https://www.griffith.edu.au/environment-planning-architecture/griffith-school-environment/research/systematic-quantitative-literature-review
+   * https://www.cochranelibrary.com/view/0/AboutCochraneSystematicReviews.html
+   * Literature review matrix : https://sites.google.com/site/twblacklinemasters/using-a-matrix-to-organise-your-notes-for-faster-writing
+   * 
 
 
