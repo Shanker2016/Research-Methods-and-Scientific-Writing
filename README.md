@@ -24,6 +24,7 @@ Resources provided during research methods and scientific writing class in autum
  7. Essay writing https://owl.purdue.edu/owl/general_writing/academic_writing/essay_writing/expository_essays.html
  8. Topic sentence and paragraphs: https://owl.english.purdue.edu/engagement/2/2/57/
  9. Paper writing goes hollywood: https://www.science.org/doi/10.1126/science.355.6320.102
+ 10. Ghadi Younis in RG : https://www.researchgate.net/publication/356439714_Scientific_Research_-_basics
 
 
 
