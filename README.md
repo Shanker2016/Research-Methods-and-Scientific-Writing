@@ -29,6 +29,7 @@ Resources provided during research methods and scientific writing class in autum
 
 
 ### Everything I learnt about writing goes here.
+Follow **POWER** strategey of Steve.
 * Strategic reading refers to scanning of information while close reading means reading word by word.
     * Scan for information and close read parts that relate to your interests.
     * Close read abstracts and conlcusions.
