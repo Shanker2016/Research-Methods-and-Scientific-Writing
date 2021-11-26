@@ -33,6 +33,11 @@ Resources provided during research methods and scientific writing class in autum
     * Scan for information and close read parts that relate to your interests.
     * Close read abstracts and conlcusions.
     * Research has shown that readers who scan material and take notes retain more info than close readers.
+    * You will more likely to miss key points if you read word for world.
 * A well organized essay has paragrapghs that are of same length except for first and last one.
     * 5 sentetnces per paragraph.
+* Literature review:
+    * Comparative matrix and/or annotated bibliography are two common tools to organize literature review.
+    * Find articles > Compile Bibliography > Assemble Comparative Matrix, Draw Inferences > Refine Your Topic and Research Question > Read Selected Articles More Closely > Create an Annotated Bibliography with an Introductory Paragraph Than Indicates What Your Research Question Are.
+    * OR Read Few Articles > Make an Annotated Bibliography > Refine Your Reserach Question > Assemble More Articles > Compile Comparative Matrix, Draw Inferences > Expand Your Annotated Bibliography.
 
