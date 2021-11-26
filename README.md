@@ -33,4 +33,6 @@ Resources provided during research methods and scientific writing class in autum
     * Scan for information and close read parts that relate to your interests.
     * Close read abstracts and conlcusions.
     * Research has shown that readers who scan material and take notes retain more info than close readers.
+* A well organized essay has paragrapghs that are of same length except for first and last one.
+    * 5 sentetnces per paragraph.
 
