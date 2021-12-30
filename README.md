@@ -43,4 +43,7 @@ Follow **POWER** strategey of Steve.
     * Find articles > Compile Bibliography > Assemble Comparative Matrix, Draw Inferences > Refine Your Topic and Research Question > Read Selected Articles More Closely > Create an Annotated Bibliography with an Introductory Paragraph Than Indicates What Your Research Question Are.
     * OR Read Few Articles > Make an Annotated Bibliography > Refine Your Reserach Question > Assemble More Articles > Compile Comparative Matrix, Draw Inferences > Expand Your Annotated Bibliography.
     * Create an excel with three sheet : 1st for Bibliograhy/Database, 2nd for Comparative Matrices, and 3rd for Annotated Bibliography.
+Table and Figure
+   * Table caption above the table and figure caption below the figure.
+   * 
 
