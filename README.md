@@ -45,6 +45,6 @@ Follow **POWER** strategey of Steve.
     * Create an excel with three sheet : 1st for Bibliograhy/Database, 2nd for Comparative Matrices, and 3rd for Annotated Bibliography.
 
 ### Writing
-Table and Figure
+* Table and Figure
    * Table caption above the table and figure caption below the figure.
 
