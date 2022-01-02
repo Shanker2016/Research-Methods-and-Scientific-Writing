@@ -47,4 +47,7 @@ Follow **POWER** strategey of Steve.
 ### Writing
 * Table and Figure
    * Table caption above the table and figure caption below the figure.
+* Paragraph:
+   * Start a paragraph with topic sentence followed by supporting sentences. The last sentence of your paragraph should be concluding sentence or transition sentence that introduces idea of next paragraph.
+   * 
 
